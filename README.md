@@ -5,12 +5,12 @@ Hi, I'm Sakib Al Hasan 👋
 I work with data to clean, analyze, visualize, and build machine learning solutions. My projects include customer segmentation, classification, exploratory data analysis, feature engineering, and model evaluation.
 
 🛠️ Tech Stack
---Python — Pandas, NumPy, Scikit-learn, XGBoost
---SQL — Joins, Aggregation, Normalization
---Machine Learning — Regression, Classification, Clustering, PCA
---Data Analysis — Data Cleaning, EDA, Statistical Analysis
---Visualization — Matplotlib, Seaborn
---Tools — Jupyter Notebook, Git, GitHub, MS Excel
+-Python — Pandas, NumPy, Scikit-learn, XGBoost
+-SQL — Joins, Aggregation, Normalization
+-Machine Learning — Regression, Classification, Clustering, PCA
+-Data Analysis — Data Cleaning, EDA, Statistical Analysis
+-Visualization — Matplotlib, Seaborn
+-Tools — Jupyter Notebook, Git, GitHub, MS Excel
 
 
 📚 Certification
