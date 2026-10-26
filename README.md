@@ -53,16 +53,22 @@ Built an end-to-end regression pipeline using 1,337 insurance records. Applied f
 
 ---
 
+
 ## 🎓 Education & Certification
 
 **B.Sc. (Hons) in Mathematics**  
 National University · 4th Year (Running)  
+Govt. Shahid Asad College, Shibpur, Narsingdi  
 Expected Completion: 2027
 
 **Data Science & Machine Learning with Python**  
 Ostad · Batch 56 · Completed September 2026
 
-[![View Certificate](https://img.shields.io/badge/View-Certificate-2E8B57?style=for-the-badge)](https://ostad.app/share/certificate/c47905-md.-sakib-al-hasan)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-2E8B57?style=flat&logo=googlechrome&logoColor=white)](https://ostad.app/share/certificate/c47905-md.-sakib-al-hasan)
+
+**Computer Basic and ICT Applications**  
+Department of Youth Development, Ministry of Youth and Sports, Government of Bangladesh  
+Grade: A+ · July–December 2024
 
 ---
 
@@ -76,10 +82,3 @@ Explore my projects, technical skills, and professional profile.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://sakibzzz641.github.io/)
 
 ---
-
-*Turning data into insights and insights into actionable solutions.*
-
-
-[![Email](https://img.shields.io/badge/Email-sakibzzz641%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakibzzz641@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sakibzzz641-121013?style=flat&logo=github&logoColor=white)](https://github.com/sakibzzz641)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakibzzz641-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibzzz641)
