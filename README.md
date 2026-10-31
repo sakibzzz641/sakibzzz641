@@ -1,9 +1,9 @@
 
 # Hi, I'm Sakib Al Hasan 👋
 
-### Data Analyst | Junior Data Scientist
+### Data Analyst | Data Scientist
 
-I work with Python, SQL, Data Analysis, and Machine Learning to transform raw data into meaningful insights and predictive solutions. My projects cover customer segmentation, churn prediction, regression, exploratory data analysis, feature engineering, and model evaluation.
+I work with Python, SQL,Excel (PivotTable, Power Query, Power Pivot/DAX), Data Analysis, and Machine Learning to transform raw data into meaningful insights and predictive solutions. My projects cover customer segmentation, churn prediction, regression, exploratory data analysis, feature engineering, and model evaluation.
 
 🌐 **Portfolio:** [sakibzzz641.github.io](https://sakibzzz641.github.io/)
 
