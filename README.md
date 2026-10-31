@@ -71,6 +71,17 @@ Department of Youth Development, Ministry of Youth and Sports, Government of Ban
 Grade: A+ · July–December 2024
 
 ---
+
+## 🌐 Portfolio & Contact
+
+Explore my projects, technical skills, and professional profile.
+
+[![Email](https://img.shields.io/badge/Email-sakibzzz641%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakibzzz641@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sakibzzz641-121013?style=flat&logo=github&logoColor=white)](https://github.com/sakibzzz641)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakibzzz641-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibzzz641)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://sakibzzz641.github.io/)
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakibzzz641) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibzzz641) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sakibzzz641) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sakibzzz641) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sakibzzz641) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sakibzzz641) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakibzzz641@gmail.com) 
 
@@ -83,15 +94,5 @@ Grade: A+ · July–December 2024
 
 ---
 [![](https://komarev.com/ghpvc/?username=sakibzzz641&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🌐 Portfolio & Contact
 
-Explore my projects, technical skills, and professional profile.
-
-[![Email](https://img.shields.io/badge/Email-sakibzzz641%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakibzzz641@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sakibzzz641-121013?style=flat&logo=github&logoColor=white)](https://github.com/sakibzzz641)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakibzzz641-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibzzz641)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://sakibzzz641.github.io/)
-
----
